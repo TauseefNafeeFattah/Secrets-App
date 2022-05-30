@@ -1,1 +1,2 @@
-# GoogleAuth-Encrypted-Login-Registration-Node-JS
+# Secrets App
+Secrets App. A user can login/ register using gmail (Google auth) or by local login/registration system. The local login/registration system is encypted. Cookies is created using passport npm package so that if the users want they can stay logged in. The user can post a secret anonymously and other users can see that secret.
